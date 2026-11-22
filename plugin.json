@@ -1,0 +1,25 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "infostyle",
+  "version": "2.0.0",
+  "description": "Помогает редактировать русские тексты по 39 приёмам инфостиля, сохраняя факты, условия и голос автора.",
+  "author": {
+    "name": "zgmnnv"
+  },
+  "repository": "https://github.com/zgmnnv/codex-russian-infostyle-skill",
+  "license": "MIT",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Инфостиль",
+        "shortDescription": "Редактура русского текста",
+        "developerName": "zgmnnv",
+        "category": "Productivity",
+        "defaultPrompt": [
+          "Отредактируй письмо клиенту. Сохрани сроки и условия оплаты.",
+          "Разбери текст и объясни правки на примерах."
+        ]
+      }
+    }
+  }
+}

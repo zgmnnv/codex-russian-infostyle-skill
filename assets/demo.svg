@@ -22,7 +22,7 @@
   <circle cx="64" cy="18" r="6" fill="#a6e3a1"/>
 
   <!-- Command -->
-  <text class="prompt" x="24" y="52">&gt; /infostyle Разбери текст и оцени до и после</text>
+  <text class="prompt" x="24" y="52">&gt; $infostyle:infostyle Разбери текст и оцени до и после</text>
 
   <!-- Before section -->
   <text class="label" x="24" y="82">Before</text>
