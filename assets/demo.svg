@@ -22,7 +22,7 @@
   <circle cx="64" cy="18" r="6" fill="#a6e3a1"/>
 
   <!-- Command -->
-  <text class="prompt" x="24" y="52">&gt; /infostyle</text>
+  <text class="prompt" x="24" y="52">&gt; /infostyle Разбери текст и оцени до и после</text>
 
   <!-- Before section -->
   <text class="label" x="24" y="82">Before</text>
@@ -41,10 +41,9 @@
   <!-- After section -->
   <text class="label" x="24" y="258">After</text>
   <rect x="24" y="266" width="752" height="88" rx="8" fill="#313244"/>
-  <text class="good" x="36" y="288">Презентация за 5 минут</text>
-  <text class="good" x="36" y="306">Загрузите тему -- получите готовые слайды с текстом и оформлением.</text>
-  <text class="good" x="36" y="324">15 000 студентов уже сдали работы.</text>
-  <text class="good" x="36" y="342">[Создать презентацию бесплатно]</text>
+  <text class="good" x="36" y="288">Сервис для создания презентаций</text>
+  <text class="good" x="36" y="306">Создавайте презентации с помощью ИИ.</text>
+  <text class="good" x="36" y="342">[Попробовать бесплатно]</text>
 
   <!-- Score after -->
   <text class="score" x="24" y="376">Ясность: 9  |  Конкретика: 8  |  Убедительность: 8  |  Голос: 9</text>
@@ -54,8 +53,8 @@
 
   <!-- Changes -->
   <text class="dim" x="24" y="418">Что изменилось:</text>
-  <text class="text" x="24" y="438">1. Заголовок: убран штамп, добавлено время (5 минут)</text>
-  <text class="text" x="24" y="458">2. Описание: вместо оценок -- конкретный результат (слайды с текстом)</text>
-  <text class="text" x="24" y="478">3. Социальное доказательство: 15 000 студентов</text>
-  <text class="text" x="24" y="498">4. CTA: конкретное действие вместо абстрактного</text>
+  <text class="text" x="24" y="438">1. В заголовке назван продукт</text>
+  <text class="text" x="24" y="458">2. В описании сохранён способ создания презентаций</text>
+  <text class="text" x="24" y="478">3. Удалены неподтверждённые оценки</text>
+  <text class="text" x="24" y="498">4. Кнопка сохранила исходное действие</text>
 </svg>
