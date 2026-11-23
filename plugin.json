@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "infostyle",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "Помогает редактировать русские тексты по 39 приёмам инфостиля, сохраняя факты, условия и голос автора.",
   "author": {
     "name": "zgmnnv"
